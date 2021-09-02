@@ -1,1 +1,0 @@
-<tensorflow.python.keras.preprocessing.image.DirectoryIterator object at 0x7f8a0b96a6a0>
