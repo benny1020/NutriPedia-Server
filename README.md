@@ -15,3 +15,12 @@
 # 사용법
 ## FLASK
 - python FLASK 프레임워크를 이용해 앱과 서버의 통신을 하고 해당 파일은 YOLOv3/fl.py 입니다.
+
+
+# 이미지 인식 결과
+![image jpeg_yolo_out_py](https://user-images.githubusercontent.com/28686334/131852835-9dc33c65-60f6-4d2f-84b4-851103e682d8.jpg)
+![Screen Shot 2021-09-02 at 10 32 58 PM](https://user-images.githubusercontent.com/28686334/131852842-6476ceed-b734-49f9-9630-7f4b08d094dc.png)
+
+![KakaoTalk_Photo_2021-09-02-22-28-36](https://user-images.githubusercontent.com/28686334/131852859-7bf4c2be-3305-46fe-a63d-8f8b7a817dd9.jpeg)
+![KakaoTalk_Photo_2021-09-02-22-28-42](https://user-images.githubusercontent.com/28686334/131852862-7ee6ecb2-39f6-434c-8cdd-2052b6ca09dc.png)
+
