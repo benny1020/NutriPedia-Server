@@ -1,3 +1,43 @@
+<img width="1203" alt="Screen Shot 2022-06-12 at 10 28 35 PM" src="https://user-images.githubusercontent.com/28686334/173235731-a439b281-b3dd-4795-aba4-cfcab6b8ff9c.png">
+<img width="614" alt="Screen Shot 2022-06-12 at 10 29 38 PM" src="https://user-images.githubusercontent.com/28686334/173235740-65464cef-0238-4418-a32b-443b54125f43.png">
+
+
+
+<img width="616" alt="Screen Shot 2022-06-12 at 10 29 44 PM" src="https://user-images.githubusercontent.com/28686334/173235742-d1c75421-e2ac-48c2-816d-ce22c780f23d.png">
+
+
+<img width="615" alt="Screen Shot 2022-06-12 at 10 29 53 PM" src="https://user-images.githubusercontent.com/28686334/173235743-4fd1b91e-2d75-4733-9a26-ab47abbcf635.png">
+<img width="1200" alt="Screen Shot 2022-06-12 at 10 28 44 PM" src="https://user-images.githubusercontent.com/28686334/173235749-009e1778-eb8b-4f80-8232-a70fa8ffa625.png">
+
+<img width="1203" alt="Screen Shot 2022-06-12 at 10 29 12 PM" src="https://user-images.githubusercontent.com/28686334/173235754-87ec1953-193b-4db5-af94-9631e5ada412.png">
+
+<img width="616" alt="Screen Shot 2022-06-12 at 10 29 59 PM" src="https://user-images.githubusercontent.com/28686334/173235752-a9c5600b-6dd8-440f-bb66-1927766d86ba.png">
+<img width="614" alt="Screen Shot 2022-06-12 at 10 30 35 PM" src="https://user-images.githubusercontent.com/28686334/173235760-3c7e08ea-adea-41ad-8cf8-bfc772628b8c.png">
+
+<img width="616" alt="Screen Shot 2022-06-12 at 10 30 13 PM" src="https://user-images.githubusercontent.com/28686334/173235771-0c4f70c6-076d-42a5-90d7-4b8a7ad3b082.png">
+<img width="617" alt="Screen Shot 2022-06-12 at 10 30 18 PM" src="https://user-images.githubusercontent.com/28686334/173235778-5936a147-01a8-48c5-80b6-82e457ae5cf0.png">
+<img width="615" alt="Screen Shot 2022-06-12 at 10 30 23 PM" src="https://user-images.githubusercontent.com/28686334/173235784-a500ebfb-bc6f-4c36-a9e9-56d9edaf3f6a.png">
+
+
+## ⏰ 개발 기간
+
+- 2021.08 ~ 2021.08
+
+
+## 역할
+- backend(api 개발)
+- 이미지 예측 모델 구축 및 훈련
+
+
+## ⚙️ 기술 스택
+
+  - Python
+  - flask
+  - CNN
+  - YOLOv3
+  - ubuntu
+
+
 # 모델 구성
 ## YOLOv3
 - 직접 학습시키기에는 시간이 너무 오래걸려서
